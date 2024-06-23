@@ -1,0 +1,22 @@
+@media screen and (max-width: 800px) {
+
+#header_css{
+    width:90%;
+    min-width:200px;
+    text-align:left;
+    padding:5%;
+}
+
+#content{
+    width:90%;
+    padding:5%;
+}
+
+.nav-link{
+    display: inline;
+    padding:0 5px 0 0;
+    color:#1e1e1e;
+    text-decoration: none;
+}
+
+}

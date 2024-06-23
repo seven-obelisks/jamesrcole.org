@@ -1,0 +1,24 @@
+baseURL = 'http://jamesrcole.org'
+languageCode = 'en-us'
+title = 'jamesrcole.org'
+theme = 'so1-theme'
+[params]
+
+
+[menus]
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 1
+[[menus.main]]
+    name = 'Photography'
+    pageRef = '/photography/gallery.md'
+    weight = 2  
+[[menus.main]]
+    name = 'Portfolio'
+    pageRef = '/portfolio'
+    weight = 3
+[[menus.main]]
+    name = 'Resume'
+    pageRef = '/resume'
+    weight = 4
