@@ -38,9 +38,20 @@ layout: page
 
 <div class="dept">
 
-[Marketers Must Balance Media Mix to Collapse Brand and Performance Silos](https://www.adweek.com/brand-marketing/marketers-must-balance-media-mix-to-collapse-brand-and-performance-silos)
+**[Marketers Must Balance Media Mix to Collapse Brand and Performance Silos](https://www.adweek.com/brand-marketing/marketers-must-balance-media-mix-to-collapse-brand-and-performance-silos)** \
+*AdWeek*
 
-**AdWeek**
+**[Carlyle-backed Dept just made its biggest acquisition to date as it races to become the leading digital ad agency](https://www.businessinsider.com/dept-acquires-3q-digital-plans-us-expansion-2022-4)** \
+*Business Insider*
+
+**[For brands, the silver lining of signal loss is the opportunity to build trust](https://www.thedrum.com/opinion/2022/11/18/brands-the-silver-lining-signal-loss-the-opportunity-build-trust)** \
+*The Drum*
+
+**[Rethinking the brand-customer bond in a digital world](https://www.fastcompany.com/90787903/rethinking-the-brand-customer-bond-in-a-digital-world)** \
+*Fast Company*
+
+**[3Q/DEPT Named Top Employer By Quartz, Crain’s Chicago Business](https://www.businesswire.com/news/home/20221011005426/en/3QDEPT-Named-Top-Employer-By-Quartz-Crain%E2%80%99s-Chicago-Business)** \
+*Quartz, Crain's Chicago Business*
 
 </div>
 

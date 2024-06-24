@@ -78,6 +78,7 @@ details summary::-webkit-details-marker {
 .pfolio_img{
     margin:0px;
     max-width:100%;
+    padding:0px;
 }
 
 .dept{
@@ -89,7 +90,7 @@ details summary::-webkit-details-marker {
 }
 
 .dept p{
-    line-height:15px;
+    line-height:30px;
 }
 
 .dept a{
