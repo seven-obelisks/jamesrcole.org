@@ -1,5 +1,5 @@
 ---
-title: Photography Gallery
+title: Film Photography Gallery
 draft: false
 layout: gallery
 ---
