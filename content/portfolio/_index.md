@@ -19,7 +19,7 @@ layout: page
 
 </summary>
 
-<img src="/portfolio/images/icpg.png" class="pfolio_img">
+<center><img src="/portfolio/images/icpg.png" class="pfolio_img"></center>
 
 </details>
 
@@ -57,3 +57,30 @@ layout: page
 
 </details>
 
+<details>
+<summary>
+
+<div class="pfolio_3">
+
+<h2 class="pfolio_h2">Internet Corporation for Assigned Names and Numbers</h2>
+
+<h4 class="pfolio_h4">Public Relations, Executive Communications</h3>
+
+</div>
+
+</summary>
+
+<div class="icann">
+
+**[The Backlash Against .Sucks Has Begun](https://www.vice.com/en/article/wnja4m/maybe-kidding-about-those-sucks-domains)** \
+*Vice*
+
+**[Say hello to .google and other branded internet addresses](https://www.cnet.com/tech/services-and-software/google-internet-address-gtld-trademark-brand-nike-hbo-apple-icann/)** \
+*CNet*
+
+**[Dot-specific domain names on way to the Web](https://www.bostonglobe.com/business/2014/01/28/new-domains-spur-online-land-grab/QaFCEw3jbaxbZwjssJO07K/story.html)** \
+*The Boston Globe*
+
+</div>
+
+</details>
