@@ -1,7 +1,13 @@
-baseURL = 'http://jamesrcole.org'
+baseURL = 'https://jamesrcole.org'
 languageCode = 'en-us'
 title = 'jamesrcole.org'
 theme = 'so1-theme'
+relativeURLs = true
+uglyURLs = true
+
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 
 

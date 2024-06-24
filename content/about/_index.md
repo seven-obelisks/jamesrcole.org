@@ -23,4 +23,3 @@ More information is available on the site's [GitHub page](https://github.com/sev
 The [Indian Type Foundry](https://www.indiantypefoundry.com/) for the header font, Clash Display.
 
 Christian Specht and his [series](https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/) on integrating [lightbox2](https://lokeshdhakar.com/projects/lightbox2/) into Hugo.
-
