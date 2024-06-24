@@ -223,7 +223,6 @@ a:hover {
 }
 
 a.nav-link:hover {
-    font-variant: small-caps;
     color:#c04861;
     font-style: oblique;
   }
