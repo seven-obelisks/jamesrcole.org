@@ -100,11 +100,11 @@ summary{
     color:#193b60;
 }
 
-.dept p{
+.dept p, .icann p{
     line-height:30px;
 }
 
-.dept a{
+.dept a, .icann a{
     color:#193b60;
 }
 

@@ -6,8 +6,7 @@ layout: page
 
 #
 
-<details>
-<summary>
+<a href="https://icpg.org" style="text-decoration:none;" target="_blank">
 
 <div class="pfolio_1">
 
@@ -17,11 +16,7 @@ layout: page
 
 </div>
 
-</summary>
-
-<center><img src="/portfolio/images/icpg.png" class="pfolio_img"></center>
-
-</details>
+</a>
 
 <details>
 <summary>
